@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Stage 1: Base Image for build
 FROM python:3.12-slim AS base
 
